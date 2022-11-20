@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/krishvsoni" target="blank"><img src="https://img.shields.io/twitter/follow/krishvsoni?logo=twitter&style=for-the-badge" alt="krishvsoni" /></a> </p>
 
 - 📫 How to reach me **krishvsoni1@gmail.com**
+- 📫 How to reach me **krishsoni1@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
