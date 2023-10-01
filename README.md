@@ -1,5 +1,8 @@
 <img width="515" alt="image" src="https://github.com/krishvsoni/krishvsoni/assets/67964054/8181874c-d283-4e4f-a36e-3d2550f0312b">
 
+[![Holopin Badge 1](![image](https://github.com/krishvsoni/krishvsoni/assets/67964054/1bee9915-bc9e-4b16-beed-6a7af099f671)
+)]
+
 
 
 ## 🌐 Socials:
