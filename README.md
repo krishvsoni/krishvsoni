@@ -1,5 +1,5 @@
 <img width="515" alt="image" src="https://github.com/krishvsoni/krishvsoni/assets/67964054/8181874c-d283-4e4f-a36e-3d2550f0312b">
-![image](https://github.com/krishvsoni/krishvsoni/assets/67964054/3cba5d78-67c6-4ca7-9640-21e8ced2ef05)
+
 
 
 ## 🌐 Socials:
