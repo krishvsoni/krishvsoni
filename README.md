@@ -1,6 +1,6 @@
 <img width="515" alt="image" src="https://github.com/krishvsoni/krishvsoni/assets/67964054/8181874c-d283-4e4f-a36e-3d2550f0312b">
 
-[![An image of @krishvsoni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishvsoni)](https://holopin.io/@krishvsoni)
+
 
 
 ## 🌐 Socials:
