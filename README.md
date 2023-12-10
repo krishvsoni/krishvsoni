@@ -2,6 +2,8 @@
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6450c56db6459c506e00" alt="Appwrite Cloud Card" />
 </a>
 
+<img width="1135" alt="image" src="https://github.com/krishvsoni/krishvsoni/assets/67964054/f99c2143-6be5-435e-a0f4-b11160cd6f51">
+
 
 [![An image of @krishvsoni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishvsoni)](https://holopin.io/@krishvsoni)
 
