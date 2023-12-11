@@ -1,7 +1,7 @@
 <img width="515" alt="image" src="https://github.com/krishvsoni/krishvsoni/assets/67964054/8181874c-d283-4e4f-a36e-3d2550f0312b"> <a href="https://cloud.appwrite.io/card/6450c56db6459c506e00">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6450c56db6459c506e00" alt="Appwrite Cloud Card" />
 </a>
-<img width="563" alt="image" src="https://github.com/krishvsoni/krishvsoni/assets/67964054/bdb6c62d-f6fc-462a-9614-6a0eb137e138">
+[![An image of @krishvsoni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishvsoni)](https://holopin.io/@krishvsoni)
 
 <img width="1135" alt="image" src="https://github.com/krishvsoni/krishvsoni/assets/67964054/f99c2143-6be5-435e-a0f4-b11160cd6f51">
 
