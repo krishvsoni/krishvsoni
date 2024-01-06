@@ -2,9 +2,6 @@
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6450c56db6459c506e00" alt="Appwrite Cloud Card" />
 </a>
 
-https://github.com/krishvsoni/krishvsoni/assets/67964054/764c5974-1925-47a6-b76b-45fd3c975b8e
-
-<img width="1135" alt="image" src="https://github.com/krishvsoni/krishvsoni/assets/67964054/f99c2143-6be5-435e-a0f4-b11160cd6f51">
 
 
 
