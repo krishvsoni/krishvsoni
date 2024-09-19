@@ -1,4 +1,4 @@
-<img width="515" alt="image" src="https://github.com/krishvsoni/krishvsoni/assets/67964054/8181874c-d283-4e4f-a36e-3d2550f0312b"> 
+<img width="530" alt="image" src="https://github.com/user-attachments/assets/b79063b1-5f8b-4a20-998b-b2eacf8011c9">
 	
 </a>
 
