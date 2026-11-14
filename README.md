@@ -3,8 +3,7 @@
 # Krish Soni
 
 <a href="https://krishsoni.co">
-  <img src="assets/role.svg#gh-light-mode-only" alt="Building agents, infra. Backend engineer." width="560" />
-  <img src="assets/role-dark.svg#gh-dark-mode-only" alt="Building agents, infra. Backend engineer." width="560" />
+  <img src="assets/role.svg" alt="Building agents, infra. Backend engineer." width="560" />
 </a>
 
 <p><em>Building apps which don't suck.</em></p>
@@ -28,40 +27,53 @@
 
 </div>
 
-<img src="assets/whoami.svg" alt="whoami" width="280" />
+<img src="assets/whoami.svg" alt="whoami" width="100%" />
 
 I build agents that think and infra that doesn't fall over.
 
-- Member of Technical Staff @ <a href="https://lyzr.ai"><img src="assets/logos/lyzr.png" height="22" align="top" alt="Lyzr AI" /></a> - building agents in production
-- Co-Founder @ <a href="https://sentio.vercel.app"><img src="assets/logos/sentio.png" height="22" align="top" alt="Sentio" /></a> (exited) - security agents for AO smart contracts
+- Member of Technical Staff <a href="https://lyzr.ai"><img src="assets/logos/lyzr.png" height="22" align="top" alt="Lyzr AI" /></a> - building agents in production
+- Co-Founder <a href="https://sentio.vercel.app"><img src="assets/logos/sentio.png" height="22" align="top" alt="Sentio" /></a> **EXITED** - security agents for AO smart contracts
 - Playing with inference, scaling intelligence
 - **espresso &gt; cappuccino in the morning, elaichi tea in the evening, diet coke at night**
 
-<img src="assets/stack.svg" alt="Stack" width="280" />
+<img src="assets/stack.svg" alt="Stack" width="100%" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
-<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Firecracker_VM-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Firecracker_VM" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" alt="IPFS" />
+<table width="100%">
+<tr>
+<td valign="top" width="50%"><b>Languages</b><br/><br/>
+<img src="assets/stack/python.svg" height="28" alt="Python" />
+<img src="assets/stack/go.svg" height="28" alt="Go" />
+<img src="assets/stack/typescript.svg" height="28" alt="TypeScript" />
+<img src="assets/stack/solidity.svg" height="28" alt="Solidity" />
+</td>
+<td valign="top" width="50%"><b>Web</b><br/><br/>
+<img src="assets/stack/nextjs.svg" height="28" alt="Next.js" />
+<img src="assets/stack/astro.svg" height="28" alt="Astro" />
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%"><b>Infra</b><br/><br/>
+<img src="assets/stack/docker.svg" height="28" alt="Docker" />
+<img src="assets/stack/kubernetes.svg" height="28" alt="Kubernetes" />
+<img src="assets/stack/firecracker.svg" height="28" alt="Firecracker VM" />
+</td>
+<td valign="top" width="50%"><b>Cloud</b><br/><br/>
+<img src="assets/stack/cloudflare.svg" height="28" alt="Cloudflare" />
+<img src="assets/stack/aws.svg" height="28" alt="AWS" />
+<img src="assets/stack/azure.svg" height="28" alt="Azure" />
+<img src="assets/stack/ipfs.svg" height="28" alt="IPFS" />
+</td>
+</tr>
+</table>
 
-<img src="assets/work.svg" alt="Recent work" width="280" />
+<img src="assets/work.svg" alt="Recent work" width="100%" />
 
 | | | |
 |---|---|---|
 | **[money-lego](https://github.com/krishvsoni/money-lego)** | Describe a payment workflow in plain language, approve it, run it on PayPal Sandbox. [Live](https://money-lego.vercel.app) | `TypeScript` |
 | **[collective-mind](https://github.com/krishvsoni/collective-mind)** | Decentralized system where AI agents share and verify proven problem-solving methods | `Go` |
 
-<img src="assets/recognition.svg" alt="Recognition" width="280" />
+<img src="assets/recognition.svg" alt="Recognition" width="100%" />
 
 | | | |
 |---|---|---|
