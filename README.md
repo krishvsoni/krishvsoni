@@ -1,12 +1,12 @@
 <div align="center">
 
-# Krish Soni
+# KRISH SONI
 
 <a href="https://krishsoni.co">
-  <img src="assets/role.svg?v=8" alt="Building agents, infra. Backend engineer." width="560" />
+  <img src="assets/role.svg?v=9" alt="Backend engineer, infra, devops" width="560" />
 </a>
 
-<p><em>Building apps which don't suck.</em></p>
+<p><em>Making apps which don't suck.</em></p>
 
 <a href="https://krishsoni.co"><img src="assets/badges/portfolio.svg?v=3" height="30" alt="portfolio" /></a>
 <a href="https://www.linkedin.com/in/krishvsoni"><img src="assets/badges/linkedin.svg?v=3" height="30" alt="linkedin" /></a>
