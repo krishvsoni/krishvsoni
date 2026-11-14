@@ -27,7 +27,7 @@
 
 </div>
 
-<img src="assets/whoami.svg" alt="whoami" width="100%" />
+<img src="assets/whoami.svg" alt="whoami" width="700" />
 
 I build agents that think and infra that doesn't fall over.
 
@@ -36,7 +36,7 @@ I build agents that think and infra that doesn't fall over.
 - Playing with inference, scaling intelligence
 - **espresso &gt; cappuccino in the morning, elaichi tea in the evening, diet coke at night**
 
-<img src="assets/stack.svg" alt="Stack" width="100%" />
+<img src="assets/stack.svg" alt="Stack" width="700" />
 
 <table width="100%">
 <tr>
@@ -66,14 +66,14 @@ I build agents that think and infra that doesn't fall over.
 </tr>
 </table>
 
-<img src="assets/work.svg" alt="Recent work" width="100%" />
+<img src="assets/work.svg" alt="Recent work" width="700" />
 
 | | | |
 |---|---|---|
 | **[money-lego](https://github.com/krishvsoni/money-lego)** | Describe a payment workflow in plain language, approve it, run it on PayPal Sandbox. [Live](https://money-lego.vercel.app) | `TypeScript` |
 | **[collective-mind](https://github.com/krishvsoni/collective-mind)** | Decentralized system where AI agents share and verify proven problem-solving methods | `Go` |
 
-<img src="assets/recognition.svg" alt="Recognition" width="100%" />
+<img src="assets/recognition.svg" alt="Recognition" width="700" />
 
 | | | |
 |---|---|---|
