@@ -17,7 +17,7 @@
       </feGaussianBlur>
     </filter>
   </defs>
-  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', InterSF, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#000000">
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', InterSF, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#1F2328">
     <text x="400" y="42" filter="url(#b0)" opacity="0">building agents
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.29;0.33;1" dur="12s" repeatCount="indefinite"/>
     </text>

@@ -3,7 +3,8 @@
 # Krish Soni
 
 <a href="https://krishsoni.co">
-  <img src="assets/role.svg" alt="Building agents, infra. Backend engineer." width="560" />
+  <img src="assets/role.svg#gh-light-mode-only" alt="Building agents, infra. Backend engineer." width="560" />
+  <img src="assets/role-dark.svg#gh-dark-mode-only" alt="Building agents, infra. Backend engineer." width="560" />
 </a>
 
 <p><em>Building apps which don't suck.</em></p>
@@ -23,20 +24,20 @@
 
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Iron Man and Doctor Doom split mask illustration" width="100%" />
+<img src="assets/banner.png" alt="Iron Man and Doctor Doom split mask illustration" width="100%" />
 
 </div>
 
-<img src="assets/whoami.svg" alt="whoami" width="100%" />
+<img src="assets/whoami.svg" alt="whoami" width="280" />
 
 I build agents that think and infra that doesn't fall over.
 
-- **Member of Technical Staff @ [Lyzr AI](https://lyzr.ai)** - building agents in production
-- **Co-Founder @ Sentio** (exited) - security agents for AO smart contracts
+- Member of Technical Staff @ <a href="https://lyzr.ai"><img src="assets/logos/lyzr.png" height="22" align="top" alt="Lyzr AI" /></a> - building agents in production
+- Co-Founder @ <a href="https://sentio.vercel.app"><img src="assets/logos/sentio.png" height="22" align="top" alt="Sentio" /></a> (exited) - security agents for AO smart contracts
 - Playing with inference, scaling intelligence
 - **espresso &gt; cappuccino in the morning, elaichi tea in the evening, diet coke at night**
 
-<img src="assets/stack.svg" alt="Stack" width="100%" />
+<img src="assets/stack.svg" alt="Stack" width="280" />
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
@@ -53,14 +54,14 @@ I build agents that think and infra that doesn't fall over.
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" alt="IPFS" />
 
-<img src="assets/work.svg" alt="Recent work" width="100%" />
+<img src="assets/work.svg" alt="Recent work" width="280" />
 
 | | | |
 |---|---|---|
 | **[money-lego](https://github.com/krishvsoni/money-lego)** | Describe a payment workflow in plain language, approve it, run it on PayPal Sandbox. [Live](https://money-lego.vercel.app) | `TypeScript` |
 | **[collective-mind](https://github.com/krishvsoni/collective-mind)** | Decentralized system where AI agents share and verify proven problem-solving methods | `Go` |
 
-<img src="assets/recognition.svg" alt="Recognition" width="100%" />
+<img src="assets/recognition.svg" alt="Recognition" width="280" />
 
 | | | |
 |---|---|---|
