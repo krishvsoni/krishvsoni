@@ -1,13 +1,21 @@
+<img src="assets/mask.png?v=6" align="left" width="120" alt="Iron Man and Doctor Doom split mask illustration" />
+<img src="assets/spacer.png?v=6" align="right" width="120" height="139" alt="" />
+
 <div align="center">
 
-# Krish Soni
+<p align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg?v=7" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/name.svg?v=7" />
+    <img src="assets/name.svg?v=7" alt="Krish Soni" height="56" />
+  </picture>
+</p>
 
-<img src="assets/mask.png?v=5" align="left" width="150" alt="Iron Man and Doctor Doom split mask illustration" />
-<img src="assets/spacer.png?v=5" align="right" width="150" height="174" alt="" />
-
+<p align="center">
 <a href="https://krishsoni.co">
-  <img src="assets/role.svg?v=5" alt="Building agents, infra. Backend engineer." width="400" />
-</a>
+    <img src="assets/role.svg?v=5" alt="Building agents, infra. Backend engineer." width="400" />
+  </a>
+</p>
 
 <p><em>Building apps which don't suck.</em></p>
 
